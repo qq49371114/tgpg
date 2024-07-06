@@ -24,7 +24,7 @@ jobs:
     - name: Clone project
       run: |
         rm -rf ./*
-        git clone -b pg --recurse-submodules https://github.com/alantang1977/pg Project
+        git clone -b main --recurse-submodules https://github.com/alantang1977/pg Project
 
         cp -r Project/* ${{ github.workspace }}
         rm -rf Project
