@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260215 04:37,https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
+20260216 04:37,https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 
 
 央视频道,#genre#
@@ -293,7 +293,6 @@ CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8
 CETV1,http://111.43.126.240:9003/hls/34/index.m3u8
@@ -454,6 +453,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=bzOgmq&tk=FgM0vQMejxvG
 深圳卫视,http://kkk.888.3116598.xyz/api.php?n=tttt&id=ncZXax&tk=FgM0vQMejxvG
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
 厦门卫视,http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?txiptv
+厦门卫视,http://125.42.150.159:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
@@ -539,8 +539,8 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=bzOgmq&tk=FgM0vQMejxvG
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
-广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
 广西卫视,http://cssbyd.imwork.net:8082/hls/33/index.m3u8
 广西卫视,http://183.11.239.36:808/hls/56/index.m3u8
@@ -909,7 +909,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 电影_推荐,http://cfss.cc/cdn/hy/11602041.flv
 电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
 电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
-万合出品,https://goodiptv.club/douyu/9220456
 
 
 电视剧频道,#genre#
@@ -933,7 +932,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 少年包青天,https://live.metshop.top/yy/38498680
 雍正王朝,https://live.metshop.top/yy/23206872
 法证先锋,https://live.metshop.top/yy/1354930965
-陀枪师姐,https://live.metshop.top/huya/29465857
 陀枪师姐,https://live.metshop.top/yy/1382688521
 安家,https://live.metshop.top/yy/12086226
 灌篮高手,http://live.iill.top/yy.php?id=1382735626
@@ -1032,11 +1030,11 @@ iHOT,#genre#
 五星体育,https://cdn3.163189.xyz/163189/wxty
 五星体育,http://dxa.yiandrive.com:39191/sh/wxty
 广东体育,http://m.061899.xyz/mg/gdty
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://kkk.888.3116598.xyz/api.php?n=tttt&id=kNP855&tk=FgM0vQMejxvG
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
