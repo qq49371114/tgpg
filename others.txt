@@ -3222,9 +3222,7 @@ cctv1,https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4
 cctv1,https://stream1.freetv.fun/600a610ee4d2acf3e80fecb59d9d6f5a04fe9ef39934142463cbf6ed3b0c96df.m3u8
 cctv1,https://stream1.freetv.fun/9b27262386aa6dcea6f0caf47d6ac2d64d0d956dc3a69f0ad78f166dde78e94b.m3u8
 cctv1,https://stream1.freetv.fun/95cc7a9a16c9974d8c981d42c9a213879904ab744e95150717697089791ab4f0.m3u8
-cctv1综合,https://stream1.freetv.fun/5018fc141cbd5d5263b2a854286af87c88b69a2a2ba6919ac4e42d6188a5bc81.ctv
 tvbplus,https://stream1.freetv.fun/45b5e3b36b8de2cefeacb68ed46660185a95abb2ad353aaaaef7f7adc7f0f8ad.ctv
-明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
 翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
 翡翠,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.m3u8
 
@@ -3244,8 +3242,8 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
@@ -3320,13 +3318,12 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
 西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
@@ -3972,10 +3969,7 @@ FGTV(UnitedStates),https://securestream11.champds.com/LIVE/FultonCoGALIVE/Fulton
 FierroaFondoTV,http://45.70.201.81:8000/play/a00x/index.m3u8
 FIFA+UnitedStates,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 FilAmTVNetwork,https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
-FilmRiseAnime,https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
-FilmRiseClassicTV,https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 FilmRiseForensicFiles[Geo-blocked],https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
-FilmRiseWestern,https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 FITE24/7,https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 FlicksofFury,https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 FlowersTVUSA,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
@@ -4452,7 +4446,6 @@ PlutoTVMinutoParaGanar,https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
 PlutoTVMisteriosMedicos,https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 PlutoTVNovelas,https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
 PlutoTVParanormal(UnitedStates),https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
-PlutoTVPokemon,https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
 PlutoTVReaction,https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
 PlutoTVReality(UnitedStates),https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
 PlutoTVRomance(UnitedStates),https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
@@ -4530,7 +4523,10 @@ RVTVGrantsPass,https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223
 RVTVPrime,https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 RVTVVoices,https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 RyanandFriends,https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+SCorbyTV,https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
 SFree!(360p),https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
+SKPop!,https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
+SMetroTV(360p),https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
 SPremium!HD(360p),https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
 SalemNewsChannel,https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
 SamsungWildlife[Geo-blocked],https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
@@ -4871,7 +4867,9 @@ https://m3u.ibert.me/txt/fmml_ipv6.txt,#genre#
 
 
 https://m3u.ibert.me/txt/ycl_iptv.txt,#genre#
-group-title="数字"_zz-definition="HD",重温经典
+中国天气,rtp://239.3.1.108:8001
+环球旅游,rtp://239.3.1.109:8001
+重温经典,rtp://239.3.1.25:8001
 
 
 https://m3u.ibert.me/txt/y_g.txt,#genre#
