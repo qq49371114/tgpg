@@ -3216,12 +3216,12 @@ https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
 cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
+cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
 cctv1,https://stream1.freetv.fun/54c591d441a3e38fa349334e4e8843501661ce712aa72c0c260ad2dca98c7212.m3u8
 cctv1,https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.m3u8
 cctv1,https://stream1.freetv.fun/600a610ee4d2acf3e80fecb59d9d6f5a04fe9ef39934142463cbf6ed3b0c96df.m3u8
 cctv1,https://stream1.freetv.fun/9b27262386aa6dcea6f0caf47d6ac2d64d0d956dc3a69f0ad78f166dde78e94b.m3u8
 cctv1,https://stream1.freetv.fun/95cc7a9a16c9974d8c981d42c9a213879904ab744e95150717697089791ab4f0.m3u8
-prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
 翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
 翡翠,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.m3u8
 
@@ -4122,6 +4122,7 @@ K-ContentbyCJENM,https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_2
 KajouTV[Not24/7],https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 KaloopyTV,https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 KartoonChannel!,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+KBSAmerica,https://xyktmobile00.s.gy/PPV918_KBSAMERI
 KBSV23.1[Not24/7],http://66.242.170.53/hls/live/temp/index.m3u8
 KCAT,https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 KentuckyEducationalTelevisionWKMJ-TV,https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
@@ -4311,6 +4312,8 @@ NCMEducational&KidsChannel,https://reflect-npa.cablecast.tv/live-9/live/live.m3u
 NCMGovernment&PoliticsChannel,https://reflect-npa.cablecast.tv/live-8/live/live.m3u8
 NCMMainChannel,https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 NCTV79,https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+NewChannel,https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
+NewChannelPop!,https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 NewK.MOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 News12+NewJersey[Geo-blocked],https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
@@ -4520,6 +4523,7 @@ SCorbyTV,https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master
 SFree!(360p),https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
 SKPop!,https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 SMetroTV(360p),https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
+SPlayEvent,https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
 SPremium!HD(360p),https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
 SalemNewsChannel,https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
 SamsungWildlife[Geo-blocked],https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
@@ -4744,6 +4748,7 @@ UniMasKUVN-DT,https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.ism
 UniMasMountain,http://168.228.44.241:9997/play/a09e/index.m3u8
 UniMasWFUT-DT,http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 UniMasWXTV-DT,https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+UniversalCinema,http://45.167.1.138:8000/play/a06m
 Univision,http://190.197.41.183/Univision/index.m3u8
 UnivisionKMEX-DT[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 UnivisionWest[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
