@@ -3245,27 +3245,35 @@ https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-1综合,https://stream1.freetv.fun/4669e2d95985f2b9df7690407b9c16ae20864ad0961e7c041bddaa8b97c0e08c.m3u8
+cctv-12社会与法[geo-blocked],https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
 cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.m3u8
+cctv-9纪录,https://stream1.freetv.fun/bac2107c8204c290efc6c6224146418641af787e31995157d64d567afbc00279.m3u8
 cctv1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
 cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
+cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
 cctv1,https://stream1.freetv.fun/54c591d441a3e38fa349334e4e8843501661ce712aa72c0c260ad2dca98c7212.m3u8
 cctv-1,https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
 cctv-4k超,https://stream1.freetv.fun/5d4213276b9703523ca4f8cbf694ad036106486cfa7c37443a8385da27dd3feb.m3u8
 cctv-1hd,https://stream1.freetv.fun/bd9b67c45826c881df23e50dc06ab7ff063cbd42c599ea5ccf2c947fe859f299.m3u8
 cctv-1hd,https://stream1.freetv.fun/cd24616fb58ad5d37f7617087048141cc422a5b3bf5bd29ec5d17a66f3625a1a.m3u8
 cctv-4k超,https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.m3u8
+cctv-4k超,https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.m3u8
 cctv-1hd,https://stream1.freetv.fun/6c3b43596fc8eae3b3f486d5414e64c7bf7d8e41baf05fb90fd07c5378237760.m3u8
 cctv-1,https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8
 cctv1,https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.m3u8
 cctv1,https://stream1.freetv.fun/600a610ee4d2acf3e80fecb59d9d6f5a04fe9ef39934142463cbf6ed3b0c96df.m3u8
 cctv1,https://stream1.freetv.fun/9b27262386aa6dcea6f0caf47d6ac2d64d0d956dc3a69f0ad78f166dde78e94b.m3u8
 cctv1,https://stream1.freetv.fun/95cc7a9a16c9974d8c981d42c9a213879904ab744e95150717697089791ab4f0.m3u8
+tvbplus,https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
 etvplus,https://stream1.freetv.fun/8173d90ec9bd3b1d59a1a4a7a0d378d2322697a3d8412caffb4c6da6913e555b.m3u8
+tvbplus[geo-blocked],https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.ctv
 etvplus,https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
 tvb星河,https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
-prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
+tvb星河[geo-blocked],https://stream1.freetv.fun/1014774338dd6fcc6e3c0358712f55964ae23ffb1c8ff3a246979c2583fadff1.ctv
+tvb无线[geo-blocked],https://stream1.freetv.fun/1b9dbdcb36369ec726d1d63ecade2652b328a0e4fcc07e078ad3978070b8fcc0.ctv
+tvb翡翠[geo-blocked],https://stream1.freetv.fun/0f0395c924dc13b6e2461a9ea78f4557372bbf3c2f7493d4ffd9181d3202f74d.ctv
 明珠台[geo-blocked],https://stream1.freetv.fun/d1da08cd35d96f944f0ab0c0cc5ed0ee74e753f8fd9cbcb4c56e15d46ce3993a.ctv
-翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
+翡翠台,https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
 翡翠,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.m3u8
 
 
@@ -3513,7 +3521,7 @@ https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 3ABNEnglish,https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 3ABNFrench,https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 3ABNKids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-3ABNLatino,https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+3ABNLatino,http://138.59.177.78:9999/play/a0a3/index.m3u8
 3ABNPraiseHimMusicNetwork,https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 3ABNProclaim!Network,https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 24HourFreeMovies,https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
@@ -3670,6 +3678,7 @@ AWEPlusKPVM-LD,https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist
 AXSTV,http://23.239.31.26:8989/axstv/index.m3u8
 BabySharkTV,https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 BabyFirstSpanish,http://168.196.127.137:6001/play/a06j/index.m3u8
+BabyTVLatinAmerica,http://38.44.109.41:8003/play/a0eh
 Backstage,https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 BarRescue,https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 BarkTV,https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
@@ -4217,7 +4226,7 @@ MartinCountyTV,https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playli
 Masadrenalina,https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
 Matlock(UnitedStates),https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
 MaverickBlackCinema,https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-MBC1USA[Geo-blocked],https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+MBC1USA,https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8
 MBC3USA[Geo-blocked],https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 MBCAmerica,https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 MBCDramaUSA,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
@@ -4356,6 +4365,7 @@ NMBTV,https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
 NorCastWeather,https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
 Nosey,https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 NOST,https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
+Novelisima,http://138.59.177.78:9999/play/a0gg/index.m3u8
 NTDTVEnglish,https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 NYXT,https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 OANPlus,https://oan-plus-tcl.amagi.tv/playlist.m3u8
@@ -4712,6 +4722,7 @@ TVLandDrama,https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 TVLandSitcoms,https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 TVPanou[Not24/7],http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 TVQuisqueya,https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
+TVEInternacionalAmerica(576p)[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 TVEInternacionalAmericaHD[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 TVSBowlingNetwork,https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 TVSBoxing(360p),https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
@@ -4827,6 +4838,7 @@ WSOCNow[Geo-blocked],https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amag
 WuTangCollection,https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 WVCU-LP,https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 WVVH-CD18.1,https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
+WWENetwork,http://103.151.60.162:2122/play/a00p/index.m3u8?hls
 WWON-TVChannel48,https://tv2.fastcast4u.com:3943/stream/play.m3u8
 XFCTV,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247
 XITE90'sThrowback,https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
