@@ -2830,14 +2830,13 @@ vijuplusmegahit,https://stream1.freetv.fun/d99c30d4bf43a0a78f63a6fb790551d4611e2
 иллюзионplus,https://stream1.freetv.fun/34bf604501ac090e0b6c9fa8af6fddb3a61e2380801681d82536ca5d55e1f427.ctv
 иллюзионplus,https://stream1.freetv.fun/18c145c10ddbce34e3e20614d74845a47052aafc6f425ef58af69f6ebcd1824c.m3u8
 cctv1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
-cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
 cctv1,https://stream1.freetv.fun/54c591d441a3e38fa349334e4e8843501661ce712aa72c0c260ad2dca98c7212.m3u8
 cctv-1,https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
 cctv1综合,https://stream1.freetv.fun/15212e784f81db9a32680d536f2c044c1e69a2447ba3f1e5b42ab82db785956e.ctv
 cctv1综合,https://stream1.freetv.fun/162cd9da284ea49e2c9275760a428221e5a9ed19b27eba15530fd074e05d8f86.ctv
 cctv-4k超,https://stream1.freetv.fun/5d4213276b9703523ca4f8cbf694ad036106486cfa7c37443a8385da27dd3feb.m3u8
 cctv-1hd,https://stream1.freetv.fun/bd9b67c45826c881df23e50dc06ab7ff063cbd42c599ea5ccf2c947fe859f299.m3u8
-cctv-1hd,https://stream1.freetv.fun/cd24616fb58ad5d37f7617087048141cc422a5b3bf5bd29ec5d17a66f3625a1a.m3u8
+cctv-1hd[geo-blocked],https://stream1.freetv.fun/cd24616fb58ad5d37f7617087048141cc422a5b3bf5bd29ec5d17a66f3625a1a.m3u8
 cctv-4k超,https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.m3u8
 cctv-4k超,https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.m3u8
 cctv-1hd,https://stream1.freetv.fun/6c3b43596fc8eae3b3f486d5414e64c7bf7d8e41baf05fb90fd07c5378237760.m3u8
@@ -2953,8 +2952,8 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
