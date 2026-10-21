@@ -2511,6 +2511,7 @@ DAAITV,https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 DHA[Not24/7],https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 DiscoveringChina,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 DragonTVInternational,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+EBCForeignMovie,http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 FengshangShoppingChannel,http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 GodStandsKidsClubTVChinese,https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 GodStandsTVChinese,https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
@@ -2524,6 +2525,7 @@ HakkaTV,https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 HarbinComprehensiveNewsChannel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
 HebeiTV(2160p),https://event.pull.hebtv.com/live/live101.m3u8
+HunanEconomyChannel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 HunanTV(2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 Jade,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 KangbaTV,http://110.185.237.164:8888/hls/30/index.m3u8
@@ -2546,12 +2548,14 @@ NTDTVCanada,https://live.ntdtv.com/mllive860/playlist.m3u8
 NTDTVCanadaWest,https://live.ntdtv.com/cwlive220/playlist.m3u8
 NTDTVChina,https://live.ntdtv.com/cnlive900/playlist.m3u8
 PeaceTVChinese,https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+PTS3,http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 SipingTV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+SJTV,http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 TaiwanIndigenousTV,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 TVBRICSChinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 VoATVChina,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -2844,6 +2848,7 @@ cctv1,https://stream1.freetv.fun/95cc7a9a16c9974d8c981d42c9a213879904ab744e95150
 cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
 discoverykids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.m3u8
 kix,https://stream1.freetv.fun/482fc1351cc36a139ebaf7306f56cab38b03d890c05a5482b22063d369702565.m3u8
+ebcforeignmovie,https://stream1.freetv.fun/5b52fbb1e26701290423180c3cdcf2f3bedda2de1793d7f00f5108327753c23e.m3u8
 now新闻,https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.ctv
 atvplus,https://stream1.freetv.fun/f349080d4631a41e91634a88cf5f68af55a85a8239f6ecd5fd5ee69f611ba075.m3u8
 tvbplus,https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
@@ -2865,7 +2870,6 @@ prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978
 翡翠,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.m3u8
 翡翠,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.m3u8
 翡翠台[geo-blocked],https://stream1.freetv.fun/f47d16542d51e01285a1b9ce86acd63ff3f5522b3a256f392628327f068a63fa.ctv
-凤凰香港[geo-blocked],https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2911,23 +2915,6 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 活佛济公3,https://live.metshop.top/huya/23903123
 狄仁杰电影,https://live.metshop.top/huya/30080229
 玄幻电影,https://live.metshop.top/huya/11342414
-电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
-电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
-电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
-电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
-电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
-电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
-电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
-电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
-电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
-电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
-电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
-电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
-电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
-电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
-电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
-电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
 罪犯电影,https://live.metshop.top/huya/11352962
 西游记2,https://live.metshop.top/huya/29465859
 谍战电影,https://live.metshop.top/huya/21059585
@@ -2936,8 +2923,6 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 金庸武侠,https://live.metshop.top/huya/11342435
 金枝欲孽,https://live.metshop.top/huya/29465847
 鉴证实录,https://live.metshop.top/huya/23903183
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 黄渤电影,https://live.metshop.top/huya/11352876
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 七龙珠,https://live.metshop.top/huya/11601966
@@ -2953,6 +2938,8 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
@@ -3232,6 +3219,7 @@ America'sVoice,https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c2
 America'sVoiceNews,https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 AmericanHeroesChannel,http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+AmericanNinjaWarrior,https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
 Ameritrade[Not24/7],https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 AMGTV,https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 AMGATV[Not24/7],https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
@@ -3330,6 +3318,8 @@ BMCTV,https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e
 bonappetit,https://bonappetit-samsung.amagi.tv/playlist.m3u8
 Bonanza,https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 Boomerang,http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+BotflixRadioo,https://hls.botflix.tv/radioo/index.m3u8
+BotflixTV,https://hls.botflix.tv/tv/index.m3u8
 Bounce,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 BounceXL,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 BPTV(360p),https://buenapark.cablecast.tv/live/stream-1/live.m3u8
@@ -3599,7 +3589,6 @@ FNXKVCR-DT[Geo-blocked],https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr
 FoodNetwork(UnitedStates),http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 ForensicFiles,https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 ForeverKids,https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
-Fox(UnitedStates),http://stream.cammonitorplus.net/1752/index.m3u8
 Fox(UnitedStates)KBSI[Not24/7],https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 Fox(UnitedStates)KCPQ,https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 Fox(UnitedStates)KDFW,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
@@ -4074,17 +4063,17 @@ PlutoTVMisteriosMedicos,https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 PlutoTVNovelas,https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
 PlutoTVParanormal(UnitedStates),https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 PlutoTVReaction,https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
-PlutoTVReality(UnitedStates),https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
-PlutoTVRomance(UnitedStates),https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+PlutoTVReality,https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
+PlutoTVRomance,https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 PlutoTVSanctuary,https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 PlutoTVSci-Fi(UnitedStates),https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
-PlutoTVScience(UnitedStates),https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+PlutoTVScience,https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 PlutoTVSpotlight,https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
 PlutoTVStaffPicks,https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 PlutoTVStorageWars,https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 PlutoTVTerror,https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
 PlutoTVTheTwilightZone,https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
-PlutoTVThrillers(UnitedStates),https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+PlutoTVThrillers,https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 PlutoTVTrendingNow,https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 PlutoTVTrueCrime(UnitedStates),https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 PlutoTVWesterns(UnitedStates),https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
@@ -4738,12 +4727,11 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs
 
 
 https://iptv.b2og.com/txt/fmml_ipv6.txt,#genre#
-
-
 https://m3u.ibert.me/txt/fmml_dv6.txt,#genre#
 https://m3u.ibert.me/txt/o_cn.txt,#genre#
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
+Xinjiang_TV_5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13_,http://74.91.26.218:82/live/cctv13hd.m3u8
 Chifeng_Comprehensive_News_Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 CCTV1_,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -4754,7 +4742,7 @@ CCTV7_,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV10_,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV8_,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV11_,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV15_,https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV15_,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV12_,http://74.91.26.218:82/live/cctv12hd.m3u8
 
 
